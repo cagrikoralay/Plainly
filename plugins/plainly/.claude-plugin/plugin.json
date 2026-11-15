@@ -1,0 +1,13 @@
+{
+  "name": "plainly",
+  "displayName": "Plainly",
+  "version": "0.1.0",
+  "description": "Plain, short, clear AI answers. Explain, rewrite, or check text with simple rules loosely inspired by controlled technical English.",
+  "author": {
+    "name": "Cagri Koralay"
+  },
+  "homepage": "https://github.com/cagrikoralay/Plainly",
+  "repository": "https://github.com/cagrikoralay/Plainly",
+  "license": "MIT",
+  "keywords": ["writing", "plain-english", "simplified-english", "explain", "prompting", "docs"]
+}

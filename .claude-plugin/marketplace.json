@@ -1,0 +1,17 @@
+{
+  "name": "cagrikoralay",
+  "description": "Claude Code plugins and skills by Cagri Koralay.",
+  "owner": {
+    "name": "Cagri Koralay",
+    "url": "https://github.com/cagrikoralay"
+  },
+  "plugins": [
+    {
+      "name": "plainly",
+      "source": "./plugins/plainly",
+      "description": "Explain, rewrite, or check text in plain, short English.",
+      "category": "productivity",
+      "tags": ["writing", "plain-english", "explain", "prompting", "docs"]
+    }
+  ]
+}
